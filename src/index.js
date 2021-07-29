@@ -1,3 +1,3 @@
+import x from './x.js'
 
-import x from  './x.js'
 console.log(x)
