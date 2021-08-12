@@ -10,6 +10,7 @@ div.appendChild(button)
 button.onclick = () => {
   const promise = import('./lazy')
   promise.then((module) => {
+    
     const fn = module.default
     fn()
   }, () => {
