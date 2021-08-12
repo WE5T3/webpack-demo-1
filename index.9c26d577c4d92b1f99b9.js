@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebpack_demo_1=self.webpackChunkwebpack_demo_1||[]).push([[958],{958:(e,n,c)=>{function o(){console.log("懒加载过程");const e=document.createElement("span");e.innerHTML="懒加载完成 ",document.body.appendChild(e)}c.r(n),c.d(n,{default:()=>o})}}]);
